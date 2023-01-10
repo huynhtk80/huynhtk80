@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/113961461/211631552-54b9f332-a8ff-4c80-8234-c446620f374d.png)
 
 <!--
 **huynhtk80/huynhtk80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
