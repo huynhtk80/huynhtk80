@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![Timothy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=huynhtk80&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Timothy's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=huynhtk80&show_icons=true&&count_private=truetheme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Timothy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=huynhtk80&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)]
+[![Timothy's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=huynhtk80&show_icons=true&&count_private=truetheme=default#gh-light-mode-only)]
