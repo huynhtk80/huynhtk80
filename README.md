@@ -18,6 +18,7 @@ Full Stack Developer with 13 years of work experience including project coordina
 - ⚡ Fun fact: **I think my greyhound Eden is a giant house cat!**
 <!-- 📫 How to reach me: **huynh.tk80@gmail.com**-->
 
+Check out my portfolio page at http://www.timothyhuynh.com
 
 <picture>
 <source 
