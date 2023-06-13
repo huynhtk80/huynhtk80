@@ -20,17 +20,7 @@ Full Stack Developer with 13 years of work experience including project coordina
 
 Check out my portfolio page at http://www.timothyhuynh.com
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhtk80&layout=compact&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhtk80&layout=compact"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+
 
 
 
