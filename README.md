@@ -10,7 +10,7 @@ Full Stack Developer with 13 years of work experience including project coordina
 
 - 🔭 I’m currently working on **Africa Live Network(ALN)**
 - 🌱 I recently completed project with ALN using **React, TypeScript, Tailwindcss and Firebase** 
-- 🙋🏼‍♂️ I'm in the process of learning **Angular, Python, Dijango and PostgresQL**
+- 🙋🏼‍♂️ I'm in the process of learning **C#/.Net**
 - 👯 I’m looking to collaborate on an **embedded software project**
 - 🤔 I’m looking for help with **best coding practices**
 - 💬 Ask me about **Gardening**
